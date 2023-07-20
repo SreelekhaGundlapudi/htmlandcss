@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-image {
+    background-image: url("https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=1800&t=st=1689691647~exp=1689692247~hmac=534e4fceb65b91247ce88b4a0736f4a435428469f64e36cda0fd0ef65ed69f52");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+.heading {
+    color: darkblue;
+    font-family: sans-serif;
+    margin-left: 600px;
+}
+#navbar-text1 {
+color: white;
+font-size: 20px;
+font-family: sans-serif;
+}
+.image {
+    height: 40px;
+    width: 40px;
+    
+    color: white;
+}
+.para {
+    color: darkblue;
+    font-family: sans-serif;
+    margin-left: 600px;
+}
+.card-container {
+    
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 80vh;
+    width: 100vw;
+    text-align: center;
+    
+}
+.image1 {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 320px;
+    width: 480px;
+    margin-top: 15px;
+}
+.card-heading {
+    font-family: sans-serif;
+    font-size: 40px;
+    padding: 15px;
+    margin-top: 15px;
+}
+.card-para {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 15px;
+
+}
